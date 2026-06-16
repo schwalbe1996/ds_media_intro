@@ -131,3 +131,6 @@ dmypy.json
 # openml
 openml/
 data/
+
+# 模範解答・出力例（学生には非公開）
+_answer_key/
